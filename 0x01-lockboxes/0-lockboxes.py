@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A module to check if all boxes can be unlocked 
+'''A module to check if all boxes can be unlocked
 '''
 
 
